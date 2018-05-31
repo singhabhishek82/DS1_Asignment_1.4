@@ -1,0 +1,5 @@
+# Python program to find the volume of a sphere with diameter 12 cm.
+# radius of the sphere is in cms.
+r=12.0
+volume=(4/3)*float((3.14))*(r**3)
+print("Volume of the sphere is :",volume)
